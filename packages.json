@@ -1,0 +1,174 @@
+[
+  {
+    "package" : "citation",
+    "url" : "https://github.com/pik-piam/citation"
+  },
+  {
+    "package" : "edgeTransport",
+    "url" : "https://github.com/pik-piam/edgeTransport"
+  },
+  {
+    "package" : "edgeTrpLib",
+    "url" : "https://github.com/pik-piam/edgeTrpLib"
+  },
+  {
+    "package" : "GDPuc",
+    "url" : "https://github.com/pik-piam/GDPuc"
+  },
+  {
+    "package" : "gdx",
+    "url" : "https://github.com/pik-piam/gdx"
+  },
+  {
+    "package" : "gms",
+    "url" : "https://github.com/pik-piam/gms"
+  },
+  {
+    "package" : "goxygen",
+    "url" : "https://github.com/pik-piam/goxygen"
+  },
+  {
+    "package" : "limes",
+    "url" : "https://github.com/pik-piam/limes"
+  },
+  {
+    "package" : "lpjclass",
+    "url" : "https://github.com/pik-piam/lpjclass"
+  },
+  {
+    "package" : "lucode2",
+    "url" : "https://github.com/pik-piam/lucode2"
+  },
+  {
+    "package" : "luplot",
+    "url" : "https://github.com/pik-piam/luplot"
+  },
+  {
+    "package" : "luscale",
+    "url" : "https://github.com/pik-piam/luscale"
+  },
+  {
+    "package" : "lusweave",
+    "url" : "https://github.com/pik-piam/lusweave"
+  },
+  {
+    "package" : "madrat",
+    "url" : "https://github.com/pik-piam/madrat"
+  },
+  {
+    "package" : "magclass",
+    "url" : "https://github.com/pik-piam/magclass"
+  },
+  {
+    "package" : "magpie4",
+    "url" : "https://github.com/pik-piam/magpie4"
+  },
+  {
+    "package" : "MAgPIENCGains",
+    "url" : "https://github.com/pik-piam/MAgPIENCGains"
+  },
+  {
+    "package" : "magpiesets",
+    "url" : "https://github.com/pik-piam/magpiesets"
+  },
+  {
+    "package" : "mip",
+    "url" : "https://github.com/pik-piam/mip"
+  },
+  {
+    "package" : "modelstats",
+    "url" : "https://github.com/pik-piam/modelstats"
+  },
+  {
+    "package" : "mrcommons",
+    "url" : "https://github.com/pik-piam/mrcommons"
+  },
+  {
+    "package" : "mrfable",
+    "url" : "https://github.com/pik-piam/mrfable"
+  },
+  {
+    "package" : "mrfeed",
+    "url" : "https://github.com/pik-piam/mrfeed"
+  },
+  {
+    "package" : "mrfish",
+    "url" : "https://github.com/pik-piam/mrfish"
+  },
+  {
+    "package" : "mrland",
+    "url" : "https://github.com/pik-piam/mrland"
+  },
+  {
+    "package" : "mrmagpie",
+    "url" : "https://github.com/pik-piam/mrmagpie"
+  },
+  {
+    "package" : "mrremind",
+    "url" : "https://github.com/pik-piam/mrremind"
+  },
+  {
+    "package" : "mrsoil",
+    "url" : "https://github.com/pik-piam/mrsoil"
+  },
+  {
+    "package" : "mrtutorial",
+    "url" : "https://github.com/pik-piam/mrtutorial"
+  },
+  {
+    "package" : "mrvalidation",
+    "url" : "https://github.com/pik-piam/mrvalidation"
+  },
+  {
+    "package" : "mrvalidnitrogen",
+    "url" : "https://github.com/pik-piam/mrvalidnitrogen"
+  },
+  {
+    "package" : "mrwaste",
+    "url" : "https://github.com/pik-piam/mrwaste"
+  },
+  {
+    "package" : "mrwater",
+    "url" : "https://github.com/pik-piam/mrwater"
+  },
+  {
+    "package" : "mstools",
+    "url" : "https://github.com/pik-piam/mstools"
+  },
+  {
+    "package" : "piamModelTests",
+    "url" : "https://github.com/pik-piam/piamModelTests"
+  },
+  {
+    "package" : "quitte",
+    "url" : "https://github.com/pik-piam/quitte"
+  },
+  {
+    "package" : "regressionworlddata",
+    "url" : "https://github.com/pik-piam/regressionworlddata"
+  },
+  {
+    "package" : "remind",
+    "url" : "https://github.com/pik-piam/remind"
+  },
+  {
+    "package" : "remind2",
+    "url" : "https://github.com/pik-piam/remind2"
+  },
+  {
+    "package" : "remulator",
+    "url" : "https://github.com/pik-piam/remulator"
+  },
+  {
+    "package" : "rmndt",
+    "url" : "https://github.com/pik-piam/rmndt"
+  },
+  {
+    "package" : "shinyresults",
+    "url" : "https://github.com/pik-piam/shinyresults"
+  },
+  {
+    "package" : "trafficlight",
+    "url" : "https://github.com/pik-piam/trafficlight"
+  }
+]
