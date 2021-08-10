@@ -4,6 +4,10 @@
     "url" : "https://github.com/pik-piam/citation"
   },
   {
+    "package" : "demystas",
+    "url" : "https://github.com/pik-piam/demystas"
+  },
+  {
     "package" : "edgeTransport",
     "url" : "https://github.com/pik-piam/edgeTransport"
   },
