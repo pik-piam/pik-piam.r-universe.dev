@@ -32,10 +32,6 @@
     "url" : "https://github.com/pik-piam/goxygen"
   },
   {
-    "package" : "HARr",
-    "url" : "https://github.com/USDA-ERS/MTED-HARr"
-  },
-  {
     "package" : "iamc",
     "url" : "https://github.com/IAMconsortium/iamc"
   },
