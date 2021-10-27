@@ -96,6 +96,10 @@
     "url" : "https://github.com/pik-piam/mrcommons"
   },
   {
+    "package" : "mrdrivers",
+    "url" : "https://github.com/pik-piam/mrdrivers"
+  },
+  {
     "package" : "mrfable",
     "url" : "https://github.com/pik-piam/mrfable"
   },
