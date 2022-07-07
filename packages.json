@@ -64,6 +64,10 @@
     "url" : "https://github.com/pik-piam/lusweave"
   },
   {
+    "package" : "m4fsdp",
+    "url" : "https://github.com/pik-piam/m4fsdp"
+  },
+  {
     "package" : "madrat",
     "url" : "https://github.com/pik-piam/madrat"
   },
