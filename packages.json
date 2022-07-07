@@ -96,6 +96,10 @@
     "url" : "https://github.com/pik-piam/mrcommons"
   },
   {
+    "package" : "mrdieter",
+    "url" : "https://github.com/pik-piam/mrdieter"
+  },
+  {
     "package" : "mrdrivers",
     "url" : "https://github.com/pik-piam/mrdrivers"
   },
