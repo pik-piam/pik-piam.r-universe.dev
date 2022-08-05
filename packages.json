@@ -202,5 +202,9 @@
   {
     "package" : "trafficlight",
     "url" : "https://github.com/pik-piam/trafficlight"
+  },
+  {
+    "package": "rOpenscmRunner",
+    "url": "https://github.com/pik-piam/rOpenscmRunner"
   }
 ]
