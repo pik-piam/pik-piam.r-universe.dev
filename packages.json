@@ -25,7 +25,8 @@
   },
   {
     "package" : "gdxrrw",
-    "url" : "https://github.com/GAMS-dev/gdxrrw/gdxrrw"
+    "url" : "https://github.com/GAMS-dev/gdxrrw",
+    "subdir": "gdxrrw"
   },
   {
     "package" : "gms",
@@ -37,7 +38,7 @@
   },
   {
     "package" : "HARr",
-    "url" : "https://github.com/USDA-ERS/MTED-HARr"
+    "url" : "https://github.com/pfuehrlich-pik/HARr"
   },
   {
     "package" : "iamc",
