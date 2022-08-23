@@ -24,6 +24,10 @@
     "url" : "https://github.com/pik-piam/gdx"
   },
   {
+    "package" : "gdxrrw",
+    "url" : "https://github.com/GAMS-dev/gdxrrw/gdxrrw"
+  },
+  {
     "package" : "gms",
     "url" : "https://github.com/pik-piam/gms"
   },
