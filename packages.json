@@ -185,10 +185,6 @@
     "url" : "https://github.com/pik-piam/regressionworlddata"
   },
   {
-    "package" : "remind",
-    "url" : "https://github.com/pik-piam/remind"
-  },
-  {
     "package" : "remind2",
     "url" : "https://github.com/pik-piam/remind2"
   },
