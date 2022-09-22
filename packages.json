@@ -201,6 +201,10 @@
     "url" : "https://github.com/pik-piam/shinyresults"
   },
   {
+    "package" : "SPARQL",
+    "url" : "https://github.com/cran/SPARQL"
+  },
+  {
     "package" : "trafficlight",
     "url" : "https://github.com/pik-piam/trafficlight"
   },
