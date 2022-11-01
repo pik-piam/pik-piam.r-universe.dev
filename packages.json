@@ -185,6 +185,10 @@
     "url" : "https://github.com/pik-piam/quitte"
   },
   {
+    "package" : "r2databus",
+    "url" : "https://github.com/pik-piam/r2databus"
+  },
+  {
     "package" : "regressionworlddata",
     "url" : "https://github.com/pik-piam/regressionworlddata"
   },
