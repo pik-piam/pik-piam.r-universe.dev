@@ -169,6 +169,10 @@
     "url" : "https://github.com/pik-piam/mstools"
   },
   {
+    "package" : "piamenv",
+    "url" : "https://github.com/pik-piam/piamenv"
+  },
+  {
     "package" : "piamInterfaces",
     "url" : "https://github.com/pik-piam/piamInterfaces"
   },
