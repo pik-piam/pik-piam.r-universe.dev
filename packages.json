@@ -165,6 +165,10 @@
     "url" : "https://github.com/pik-piam/mrwater"
   },
   {
+    "package" : "mrwaterplots",
+    "url" : "https://github.com/pik-piam/mrwaterplots"
+  },
+  {
     "package" : "mstools",
     "url" : "https://github.com/pik-piam/mstools"
   },
