@@ -1,5 +1,9 @@
 [
   {
+    "package" : "blackmagicc",
+    "url" : "https://github.com/pik-piam/blackmagicc"
+  },
+  {
     "package" : "citation",
     "url" : "https://github.com/pik-piam/citation"
   },
