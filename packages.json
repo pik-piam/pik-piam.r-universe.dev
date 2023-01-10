@@ -57,6 +57,12 @@
     "url" : "https://github.com/pik-piam/lpjclass"
   },
   {
+    "package" : "lpjmlkit",
+    "url" : "https://gitlab.pik-potsdam.de/lpjml/lpjmlkit",
+    "ref" : "metafile"
+  },
+
+  {
     "package" : "lucode2",
     "url" : "https://github.com/pik-piam/lucode2"
   },
