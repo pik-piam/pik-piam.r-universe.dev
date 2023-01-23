@@ -58,8 +58,7 @@
   },
   {
     "package" : "lpjmlkit",
-    "url" : "https://gitlab.pik-potsdam.de/lpjml/lpjmlkit",
-    "branch" : "metafile"
+    "url" : "https://gitlab.pik-potsdam.de/lpjml/lpjmlkit"
   },
   {
     "package" : "lucode2",
