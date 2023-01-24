@@ -58,7 +58,7 @@
   },
   {
     "package" : "lpjmlkit",
-    "url" : "https://gitlab.pik-potsdam.de/lpjml/lpjmlkit"
+    "url" : "https://github.com/PIK-LPJmL/lpjmlkit"
   },
   {
     "package" : "lucode2",
