@@ -145,6 +145,10 @@
     "url" : "https://github.com/pik-piam/mrmagpie"
   },
   {
+    "package" : "mrorganic",
+    "url" : "https://github.com/tscheypidi/mrorganic"
+  },
+  {
     "package" : "mrremind",
     "url" : "https://github.com/pik-piam/mrremind"
   },
