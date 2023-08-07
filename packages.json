@@ -129,6 +129,10 @@
     "url" : "https://github.com/pik-piam/mrfable"
   },
   {
+    "package" : "mrfactors",
+    "url" : "https://github.com/pik-piam/mrfactors"
+  },
+  {
     "package" : "mrfeed",
     "url" : "https://github.com/pik-piam/mrfeed"
   },
