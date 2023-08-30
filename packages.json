@@ -161,6 +161,10 @@
     "url" : "https://github.com/pik-piam/mrsoil"
   },
   {
+    "package" : "mrtransport",
+    "url" : "https://github.com/pik-piam/mrtransport"
+  },
+  {
     "package" : "mrtutorial",
     "url" : "https://github.com/pik-piam/mrtutorial"
   },
