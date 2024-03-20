@@ -61,6 +61,10 @@
     "url" : "https://github.com/PIK-LPJmL/lpjmlkit"
   },
   {
+    "package" : "lpjmlstats",
+    "url" : "https://github.com/PIK-LPJmL/lpjmlstats"
+  },
+  {
     "package" : "lucode2",
     "url" : "https://github.com/pik-piam/lucode2"
   },
