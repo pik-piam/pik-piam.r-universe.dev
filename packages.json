@@ -205,6 +205,10 @@
     "url" : "https://github.com/pik-piam/piamModelTests"
   },
   {
+    "package" : "piamPlotComparison",
+    "url" : "https://github.com/pik-piam/piamPlotComparison"
+  },
+  {
     "package" : "piamValidation",
     "url" : "https://github.com/pik-piam/piamValidation"
   },
