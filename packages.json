@@ -4,6 +4,10 @@
     "url" : "https://github.com/pik-piam/blackmagicc"
   },
   {
+    "package" : "brick",
+    "url" : "https://github.com/pik-piam/brick"
+  },
+  {
     "package" : "citation",
     "url" : "https://github.com/pik-piam/citation"
   },
