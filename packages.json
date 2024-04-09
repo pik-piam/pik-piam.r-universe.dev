@@ -125,6 +125,10 @@
     "url" : "https://github.com/pik-piam/mrdrivers"
   },
   {
+    "package" : "mredgebuildings",
+    "url" : "https://github.com/pik-piam/mredgebuildings"
+  },
+  {
     "package" : "mrfable",
     "url" : "https://github.com/pik-piam/mrfable"
   },
