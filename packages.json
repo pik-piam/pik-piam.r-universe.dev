@@ -217,6 +217,10 @@
     "url" : "https://github.com/pik-piam/piamPlotComparison"
   },
   {
+    "package" : "piamUtilities",
+    "url" : "https://github.com/pik-piam/piamUtilities"
+  },
+  {
     "package" : "piamValidation",
     "url" : "https://github.com/pik-piam/piamValidation"
   },
