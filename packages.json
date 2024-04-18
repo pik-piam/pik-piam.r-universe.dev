@@ -217,8 +217,8 @@
     "url" : "https://github.com/pik-piam/piamPlotComparison"
   },
   {
-    "package" : "piamUtilities",
-    "url" : "https://github.com/pik-piam/piamUtilities"
+    "package" : "piamUtils",
+    "url" : "https://github.com/pik-piam/piamUtils"
   },
   {
     "package" : "piamValidation",
