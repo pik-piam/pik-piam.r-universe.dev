@@ -249,6 +249,10 @@
     "url" : "https://github.com/pik-piam/remulator"
   },
   {
+    "package" : "reportbrick",
+    "url" : "https://github.com/pik-piam/reportbrick"
+  },
+  {
     "package" : "rmndt",
     "url" : "https://github.com/pik-piam/rmndt"
   },
