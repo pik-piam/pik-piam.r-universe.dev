@@ -253,6 +253,10 @@
     "url" : "https://github.com/pik-piam/reportbrick"
   },
   {
+    "package" : "reporttransport",
+    "url" : "https://github.com/pik-piam/reporttransport"
+  },
+  {
     "package" : "rmndt",
     "url" : "https://github.com/pik-piam/rmndt"
   },
