@@ -49,6 +49,10 @@
     "url" : "https://github.com/pfuehrlich-pik/HARr"
   },
   {
+    "package" : "hdf5r",
+    "url" : "https://github.com/pascal-sauer/hdf5r"
+  },
+  {
     "package" : "iamc",
     "url" : "https://github.com/IAMconsortium/iamc"
   },
