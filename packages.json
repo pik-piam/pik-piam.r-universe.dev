@@ -32,6 +32,10 @@
     "url" : "https://github.com/pik-piam/gdx"
   },
   {
+    "package" : "gdx2",
+    "url" : "https://github.com/pik-piam/gdx2"
+  },
+  {
     "package" : "gdxrrw",
     "url" : "https://github.com/pascal-sauer/gdxrrw",
     "subdir": "gdxrrw"
