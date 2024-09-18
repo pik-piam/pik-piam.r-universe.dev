@@ -169,10 +169,6 @@
     "url" : "https://github.com/pik-piam/mrmagpie"
   },
   {
-    "package" : "mrmaterials",
-    "url" : "https://github.com/pik-piam/mrmaterials"
-  },
-  {
     "package" : "mrorganic",
     "url" : "https://github.com/tscheypidi/mrorganic"
   },
