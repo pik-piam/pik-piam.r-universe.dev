@@ -157,6 +157,10 @@
     "url" : "https://github.com/pik-piam/mrfish"
   },
   {
+    "package" : "mrindustry",
+    "url" : "https://github.com/pik-piam/mrindustry"
+  },
+  {
     "package" : "mrland",
     "url" : "https://github.com/pik-piam/mrland"
   },
