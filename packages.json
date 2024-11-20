@@ -4,6 +4,10 @@
     "url" : "https://github.com/pik-piam/blackmagicc"
   },
   {
+    "package" : "boundaries",
+    "url" : "https://github.com/PIK-tess/boundaries"
+  },
+  {
     "package" : "brick",
     "url" : "https://github.com/pik-piam/brick"
   },
