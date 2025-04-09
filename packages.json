@@ -265,6 +265,10 @@
     "url" : "https://github.com/pik-piam/remind2"
   },
   {
+    "package" : "remindClimateAssessment",
+    "url" : "https://github.com/pik-piam/remindClimateAssessment"
+  },
+  {
     "package" : "remulator",
     "url" : "https://github.com/pik-piam/remulator"
   },
