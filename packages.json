@@ -133,6 +133,10 @@
     "url" : "https://github.com/pik-piam/mrdieter"
   },
   {
+    "package" : "mrdownscale",
+    "url" : "https://github.com/pik-piam/mrdownscale"
+  },
+  {
     "package" : "mrdrivers",
     "url" : "https://github.com/pik-piam/mrdrivers"
   },
