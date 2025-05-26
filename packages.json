@@ -16,6 +16,10 @@
     "url" : "https://github.com/pik-piam/citation"
   },
   {
+    "package" : "climbed",
+    "url" : "https://github.com/pik-piam/climbed"
+  },
+  {
     "package" : "demystas",
     "url" : "https://github.com/pik-piam/demystas"
   },
