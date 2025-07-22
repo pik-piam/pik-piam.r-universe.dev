@@ -49,6 +49,10 @@
     "subdir": "gdxrrw"
   },
   {
+    "package" : "ggsankey",
+    "url" : "https://github.com/davidsjoberg/ggsankey"
+  },
+  {
     "package" : "gms",
     "url" : "https://github.com/pik-piam/gms"
   },
