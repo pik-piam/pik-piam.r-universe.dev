@@ -20,10 +20,6 @@
     "url" : "https://github.com/pik-piam/climbed"
   },
   {
-    "package" : "demystas",
-    "url" : "https://github.com/pik-piam/demystas"
-  },
-  {
     "package" : "edgeTransport",
     "url" : "https://github.com/pik-piam/edgeTransport"
   },
