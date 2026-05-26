@@ -24,10 +24,6 @@
     "url" : "https://github.com/pik-piam/edgeTransport"
   },
   {
-    "package" : "edgeTrpLib",
-    "url" : "https://github.com/pik-piam/edgeTrpLib"
-  },
-  {
     "package" : "GDPuc",
     "url" : "https://github.com/pik-piam/GDPuc"
   },
