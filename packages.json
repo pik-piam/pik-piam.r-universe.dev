@@ -61,10 +61,6 @@
     "url" : "https://github.com/pfuehrlich-pik/HARr"
   },
   {
-    "package" : "iamc",
-    "url" : "https://github.com/IAMconsortium/iamc"
-  },
-  {
     "package" : "limes",
     "url" : "https://github.com/pik-piam/limes"
   },
