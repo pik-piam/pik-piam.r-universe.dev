@@ -144,6 +144,10 @@
     "url" : "https://github.com/pik-piam/mredgebuildings"
   },
   {
+    "package" : "mrenergy",
+    "url" : "https://github.com/pik-piam/mrenergy"
+  },
+  {
     "package" : "mrfable",
     "url" : "https://github.com/pik-piam/mrfable"
   },
